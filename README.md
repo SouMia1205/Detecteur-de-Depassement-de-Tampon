@@ -1,9 +1,9 @@
 # Detecteur-de-Depassement-de-Tampon
-Présentation du Projet
+📖 Présentation du Projet
 
 Ce projet a été développé dans le cadre du TP d'Évaluation de la Performance des Systèmes (EPS) en Master 1 Intelligence Artificielle de l'Université de Jijel. Il s'agit d'une application Java qui simule et détecte les dépassements de tampon (buffer overflow), un problème courant en sécurité informatique.
 
-Fonctionnalités
+🚀 Fonctionnalités
 
 ** Interface graphique intuitive avec écran de démarrage
 
@@ -14,20 +14,38 @@ Fonctionnalités
 ** Détection et analyse des comportements anormaux
 
 
-Prérequis
+📂 Prérequis
 
 ** Java Runtime Environment (JRE) 8 ou supérieur
 
 ** Système d'exploitation : Windows, macOS ou Linux
 
-Installation
+⚙️ Installation
 
-1. Clonez ce dépôt ou téléchargez le code source
-2. Compilez le projet :
+1️⃣ Clonez ce dépôt ou téléchargez le code source
+2️⃣ Compilez le projet :
  ```bash
 javac *.java
 ```
-3. Exécutez l'application :
+3️⃣ Exécutez l'application :
 ```bash
 java BufferOverflowLauncher
 ```
+
+📂 Structure du Projet
+
+✅ BufferOverflowLauncher.java : Point d'entrée de l'application, gère l'affichage de l'écran de démarrage
+
+✅ BufferOverflowDetector.java : Classe principale contenant la logique de détection des dépassements
+
+✅ Autres fichiers : Implémentation des différentes fonctionnalités
+
+🚀 Utilisation
+
+Après le lancement de l'application, vous verrez apparaître un écran de démarrage suivi de l'interface principale du détecteur. L'application vous permet de :
+
+1. Configurer les paramètres de détection
+   
+2. Lancer des simulations de dépassement de tampon
+ 
+3. Visualiser les résultats et les analyses
