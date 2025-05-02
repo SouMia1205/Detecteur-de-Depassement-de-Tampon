@@ -1,7 +1,7 @@
-# Detecteur-de-Depassement-de-Tampon
+# Détecteur de Dépassement de Tampon (Buffer Overflow Detector)
 📖 Présentation du Projet
 
-Ce projet a été développé dans le cadre du TP d'Évaluation de la Performance des Systèmes (EPS) en Master 1 Intelligence Artificielle de l'Université de Jijel. Il s'agit d'une application Java qui simule et détecte les dépassements de tampon (buffer overflow), un problème courant en sécurité informatique.
+Cette application Java implémente un système de simulation et de détection des dépassements de tampon (buffer overflow), une vulnérabilité critique en cybersécurité qui peut compromettre l'intégrité des systèmes d'information et constituer un vecteur d'attaque majeur.
 
 🚀 Fonctionnalités
 
