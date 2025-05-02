@@ -23,6 +23,7 @@ Cette application Java implémente un système de simulation et de détection de
 ⚙️ Installation
 
 1️⃣ Clonez ce dépôt ou téléchargez le code source
+
 2️⃣ Compilez le projet :
  ```bash
 javac *.java
